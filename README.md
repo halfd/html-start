@@ -1,7 +1,7 @@
 html-start
 ==========
 
-A basic HTML scaffolding to be used as a starting point when creating websites etc.
+A basic HTML5 scaffolding to be used as a starting point when creating websites etc.
 
 Has a bunch of dummy files lying around so that git will save the directory structure.
 
